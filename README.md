@@ -22,8 +22,8 @@ Este projeto foi desenvolvido com o objetivo de praticar e demonstrar habilidade
 
 ## 📷 Capturas de Tela
 
-- 📋 [Base de Vendas](imagens/valorunitario.jpg)
-- 📊 [Dashboard com Gráficos e Cartão](imagens/tabeladinamica.jpg)
+- 📋 [Base de Vendas](Imagens/valorunitario.jpg)
+- 📊 [Dashboard com Gráficos e Cartão](Imagens/tabeladinamica.jpg)
 
 
 ---
