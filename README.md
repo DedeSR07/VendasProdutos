@@ -22,11 +22,9 @@ Este projeto foi desenvolvido com o objetivo de praticar e demonstrar habilidade
 
 ## 📷 Capturas de Tela
 
-### Dashboard com Tabela Dinâmica, Gráficos e Cartão de Valor Total
-![Dashboard](Imagens/tabeladinamica.jpg)
+- 📋 [Base de Vendas](imagens/valorunitario.jpg)
+- 📊 [Dashboard com Gráficos e Cartão](imagens/tabeladinamica.jpg)
 
-### Base de Vendas com Fórmulas de Busca e Análise
-![Valor Unitário](Imagens/valorunitario.jpg)
 
 ---
 
