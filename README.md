@@ -16,7 +16,7 @@ Este projeto foi desenvolvido com o objetivo de praticar e demonstrar habilidade
   - `MÉDIA` para calcular média de vendas por produto
   - `VALIDAÇÃO DE DADOS` com listas suspensas
   - `CLASSIFICAÇÃO CONDICIONAL` com cores de alerta (Alta/Baixa)
-  - - `SE` Para mostrar se o vendedor está alto ou baixo em vendas
+  - `SE` Para mostrar se o vendedor está alto ou baixo em vendas
 
 ---
 
