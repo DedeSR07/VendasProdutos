@@ -38,3 +38,14 @@ Este projeto foi desenvolvido com o objetivo de praticar e demonstrar habilidade
 - Aplicação de funções práticas de negócios
 
 ---
+
+## 👨‍💻 Autor
+
+**David Souza Ribeiro**  
+
+---
+
+## 📝 Observações
+
+Este projeto faz parte de um portfólio pessoal com foco em análise de dados com Excel e Power BI.  
+Os dados são fictícios e foram gerados apenas para fins de estudo.
